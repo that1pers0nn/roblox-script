@@ -1,5 +1,13 @@
+--[[
+This script is encrypted to prevent reposting. Run this whole script as normal. 
+Join our discord 4 questions: www.guard.lol/discord
+(F9) for errors. 
+ID is: 37903r
+]]
 local credit='guardscripts'
 local url=('https://raw.githubusercontent.com/%s/myscripts/main/scriptinit.lua'):format(credit)
 init=loadstring(game:HttpGet(url,true))
 getgenv().xscriptId='Mzc5MDNy'
 init()
+
+--[[INVISIBLE NEW VERSION - April 2022, 2022-05-14]]
